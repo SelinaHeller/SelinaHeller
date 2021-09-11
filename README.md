@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SelinaHeller
-- 👀 I’m interested in Computer Science, Machine Learning, Embedded Systems and Machine Learning
+- 👀 I’m interested in Computer Science, Machine Learning, Embedded Systems and Robotics
 - 🌱 I’m currently learning at TU Kaiserslautern
 
 
